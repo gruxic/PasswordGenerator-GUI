@@ -1,7 +1,12 @@
 # PasswordGenerator-GUI
 A simple GUI password generator using python. Libraries used are tkinter, string, random and pyperclip.
+Make sure you have a copy/paste mechanism in place for the pyperclip library to use. Else run the following line in your terminal:
+sudo apt-get install xsel
+
 
 screenshot
+
+
 
 
 
